@@ -1,3 +1,12 @@
+# Social Commerce Web Application
+
+This repository contains the project done as a part of the course CS387: Database and Information Systems at IIT Bombay in Spring 2023 
+
+## Problem Statement
+
+The goal of this project is to create a web application that will serve as a portal for course registration. This project involves first creating a backend server using `node.js` and creating a frontend server using `React` framework. The web application consists of several interfaces such as login page, student homepage, course registration, course and instructor info pages.
+
+
 ## Installation
 
 ### 1. Install the necessary packages
