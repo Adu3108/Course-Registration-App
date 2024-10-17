@@ -1,4 +1,4 @@
-# Social Commerce Web Application
+# Course Registration Application
 
 This repository contains the project done as a part of the course CS 387: Database and Information Systems at IIT Bombay in Spring 2023 
 
